@@ -25,3 +25,5 @@
 
 ![Screenshot from 2023-10-22 19-24-51](https://github.com/krahul2024/chat-app/assets/76573313/e2d573fe-a438-4070-b6b7-6fd4fd595e4f)
 
+
+#### I am currently working on addition of some features , chat-room(create, join, message), groups(create, join, message), bookmark etc. 
